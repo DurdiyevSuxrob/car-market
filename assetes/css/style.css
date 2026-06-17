@@ -10,3 +10,56 @@
     margin: auto;
     background: linear-gradient(rgb(0,0,0,0.3), rgb(0,0,0,0.3)), url(../img/image.png) center/cover no-repeat;
 }
+.div1 {
+    width: 1920px;
+    height: 104px;
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.div2 {
+    width: 995px;
+    height: 26px;
+    border: 2px solid blue;
+    display: flex;
+    color: white;
+}
+.div2 i {
+    margin-top: 3px;
+}
+.div3 {
+    width: 580px;
+    height: 46px;
+    border: 2px solid yellow;
+    display: flex;
+    color: white;
+    
+}
+.div3 ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    align-items: center;
+}
+.div3 ul li {
+    display: flex;
+    align-items: center;
+}
+.div3 ul li a {
+    color: white;
+}
+.div4 {
+    width: 153px;
+    height: 48px;
+    border-radius: 46px;
+    border: 2px solid green;
+    background-color: white;
+    
+}
+.div4 b {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
