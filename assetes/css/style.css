@@ -21,7 +21,6 @@
 .div2 {
     width: 995px;
     height: 26px;
-    border: 2px solid blue;
     display: flex;
     color: white;
 }
@@ -31,7 +30,6 @@
 .div3 {
     width: 580px;
     height: 46px;
-    border: 2px solid yellow;
     display: flex;
     color: white;
     
@@ -62,4 +60,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+b1 {
+    color: aliceblue;
 }
