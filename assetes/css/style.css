@@ -61,6 +61,64 @@
     justify-content: center;
     align-items: center;
 }
-b1 {
+.p1 {
+    width: 330px;
+    height: 30px;
+    margin: auto;
+    margin-top: 250px;
+    font-size: 18px;
     color: aliceblue;
+}
+.let{
+    width: 723px;
+    height: 70px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 35px;
+    color: aliceblue;
+}
+.let1 {
+    width: 300px;
+    height: 50px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+    font-size: 20px;
+}
+.let2 {
+    width: 930px;
+    height: 76px;
+    border: 1px solid red;
+    color: aliceblue;
+    display: flex;
+}
+.bir {
+    width: 225px;
+    height: 36px;
+    border: 1px solid green;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ikki {
+    width: 75px;
+    height: 36px;
+    border: 1px solid green;
+}
+.uch {
+    width: 154px;
+    height: 36px;
+    border: 1px solid green;
+}
+.tort {
+    width: 215px;
+    height: 55px;
+    border: 1px solid green;
+}
+.tort button {
+    width: 215px;
+    height: 55px;
 }
