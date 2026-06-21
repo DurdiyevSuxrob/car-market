@@ -87,18 +87,23 @@
     justify-content: space-evenly;
     color: aliceblue;
     font-size: 20px;
+    justify-content: space-between;
 }
 .let2 {
-    width: 930px;
+    width: 980px;
     height: 76px;
-    border: 1px solid red;
-    color: aliceblue;
     display: flex;
+    align-items: center;
+    margin: auto;
+    background-color: #FFFFFF;
+    border-radius: 80px;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    
 }
 .bir {
     width: 225px;
     height: 36px;
-    border: 1px solid green;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -106,19 +111,32 @@
 .ikki {
     width: 75px;
     height: 36px;
-    border: 1px solid green;
+    margin-top: 14px;
 }
 .uch {
     width: 154px;
     height: 36px;
-    border: 1px solid green;
+    margin-top: 14px;
 }
 .tort {
     width: 215px;
     height: 55px;
-    border: 1px solid green;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: #405FF2;
+    border-radius: 60px;
+    margin-left: 10px;
+
 }
-.tort button {
-    width: 215px;
-    height: 55px;
+.besh {
+    width: 200px;
+    height: 20px ;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
 }
+
+
