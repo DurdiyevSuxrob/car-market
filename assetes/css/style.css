@@ -102,10 +102,10 @@
     
 }
 .bir {
-    width: 225px;
+    width: 170px;
     height: 36px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 .ikki {
@@ -121,14 +121,10 @@
 .tort {
     width: 215px;
     height: 55px;
-    display: flex;
-    align-items: center;
-    gap: 20px;
     font-size: 20px;
     color: aliceblue;
     background-color: #405FF2;
     border-radius: 60px;
-    margin-left: 10px;
 
 }
 .besh {
@@ -138,5 +134,67 @@
     margin: auto;
     margin-top: 10px;
 }
+.let3 {
+    width: 777px;
+    height: 60px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.let3 .lut  {
+    width: 123px;
+    height: 44px;
+    color: white;
+    border-radius: 44px;
+    background-color: #FFFFFF2E;
+    
+}
+.lut1 {
+    width: 60px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 9px;
+}
+.let3 .lut3  {
+    width: 143px;
+    height: 44px;
+    color: white;
+    border-radius: 44px;
+    background-color: #FFFFFF2E;
+    
+}
+.lut4 {
+    width: 80px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 3px;
+}
+
+.let3 .lut5  {
+    width: 175px;
+    height: 44px;
+    color: white;
+    border-radius: 44px;
+    background-color: #FFFFFF2E;
+    
+}
+.lut6 {
+    width: 120px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 3px;
+}
+
 
 
