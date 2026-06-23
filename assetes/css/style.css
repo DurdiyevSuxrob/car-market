@@ -195,6 +195,15 @@
     margin: auto;
     margin-top: 3px;
 }
-
+/* ================================================ */
+.text {
+    border: 1px solid yellow;
+    width: 1920px;
+    height: 2689px;
+    margin: auto;
+    background-color: #FFFFFF;
+    
+    
+}
 
 
