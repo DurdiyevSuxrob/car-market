@@ -247,9 +247,12 @@
 }
 .text3 {
   width: 1430px;
-  height: 450px;
+  height: 550px;
   border: 1px solid black;
   margin: auto;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
 }
 .masin1 {
   width: 328px;
@@ -262,6 +265,7 @@
   width: 328px;
   height: 219px;
   background-image: url(../img/image\ copy\ 7.png);
+  border-radius: 16px;
 }
 .masin {
   width: 328px;
@@ -269,7 +273,91 @@
   border: 1px solid green;
 }
 .text3 .masin .masin1 .ret {
-  width:;
-  height:;
-  border: 1px solid black;
+  width: 300px;
+  height:50px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
 }
+.ret button {
+  width: 105px;
+  height: 30px;
+  background-color: #3D923A;
+  border-radius: 30px;
+  color: antiquewhite;
+  border: 1px solid #3D923A;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+.bayroq   {
+  width: 36px;
+  height: 36px;
+  border-radius: 16px;
+  background-color: #FFFFFF;
+  color: black;
+}
+.bayroq .fa-regular {
+  margin-left: 8px;
+  margin-top: 10px;
+}
+.ret1 {
+  font-size: 18px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.ret2 {
+  width: 266px;
+  height: 16px;
+  margin: auto;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.ret3 {
+  width: 266px;
+  height: 70px;
+  margin: auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+
+}
+.ter {
+  width: 75px;
+  height: 70px;
+}
+.ter i {
+  margin-left: 28px;
+  margin-top: 8px;
+}
+.ter b {
+  font-size: 13px;
+  width: 74px;
+  height: 14px;
+  
+  
+}
+.b3 {
+  margin: auto;
+  margin-left: 18px;
+}
+.b4 {
+  margin: auto;
+  margin-left: 18px;
+}
+.chiziq {
+  width: 266px;
+  height: 56px;
+  margin: auto;
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.chiziq b {
+  font-size: 20px;
+}
+
+
