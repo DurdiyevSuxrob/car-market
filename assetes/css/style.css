@@ -1,209 +1,275 @@
 * {
-    margin: 0; padding: 0;
-    box-sizing: border-box;
-    font-family: "DM Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif;
 }
 
 .hero {
-    width: 1920px;
-    height: 945px;
-    margin: auto;
-    background: linear-gradient(rgb(0,0,0,0.3), rgb(0,0,0,0.3)), url(../img/image.png) center/cover no-repeat;
+  width: 1920px;
+  height: 945px;
+  margin: auto;
+  background:
+    linear-gradient(rgb(0, 0, 0, 0.3), rgb(0, 0, 0, 0.3)),
+    url(../img/image.png) center/cover no-repeat;
 }
 .div1 {
-    width: 1920px;
-    height: 104px;
-    border: 2px solid red;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+  width: 1920px;
+  height: 104px;
+  border: 2px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 .div2 {
-    width: 995px;
-    height: 26px;
-    display: flex;
-    color: white;
+  width: 995px;
+  height: 26px;
+  display: flex;
+  color: white;
 }
 .div2 i {
-    margin-top: 3px;
+  margin-top: 3px;
 }
 .div3 {
-    width: 580px;
-    height: 46px;
-    display: flex;
-    color: white;
-    
+  width: 580px;
+  height: 46px;
+  display: flex;
+  color: white;
 }
 .div3 ul {
-    display: flex;
-    gap: 20px;
-    list-style: none;
-    align-items: center;
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  align-items: center;
 }
 .div3 ul li {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 .div3 ul li a {
-    color: white;
+  color: white;
 }
 .div4 {
-    width: 153px;
-    height: 48px;
-    border-radius: 46px;
-    border: 2px solid green;
-    background-color: white;
-    
+  width: 153px;
+  height: 48px;
+  border-radius: 46px;
+  border: 2px solid green;
+  background-color: white;
 }
 .div4 b {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .p1 {
-    width: 330px;
-    height: 30px;
-    margin: auto;
-    margin-top: 250px;
-    font-size: 18px;
-    color: aliceblue;
+  width: 330px;
+  height: 30px;
+  margin: auto;
+  margin-top: 250px;
+  font-size: 18px;
+  color: aliceblue;
 }
-.let{
-    width: 723px;
-    height: 70px;
-    margin: auto;
-    text-align: center;
-    margin-top: 20px;
-    font-size: 35px;
-    color: aliceblue;
+.let {
+  width: 723px;
+  height: 70px;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 35px;
+  color: aliceblue;
 }
 .let1 {
-    width: 300px;
-    height: 50px;
-    margin: auto;
-    margin-top: 20px;
-    display: flex;
-    justify-content: space-evenly;
-    color: aliceblue;
-    font-size: 20px;
-    justify-content: space-between;
+  width: 300px;
+  height: 50px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  color: aliceblue;
+  font-size: 20px;
+  justify-content: space-between;
 }
 .let2 {
-    width: 980px;
-    height: 76px;
-    display: flex;
-    align-items: center;
-    margin: auto;
-    background-color: #FFFFFF;
-    border-radius: 80px;
-    justify-content: space-evenly;
-    margin-top: 10px;
-    
+  width: 980px;
+  height: 76px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 80px;
+  justify-content: space-evenly;
+  margin-top: 10px;
 }
 .bir {
-    width: 170px;
-    height: 36px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+  width: 170px;
+  height: 36px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 .ikki {
-    width: 75px;
-    height: 36px;
-    margin-top: 14px;
+  width: 75px;
+  height: 36px;
+  margin-top: 14px;
 }
 .uch {
-    width: 154px;
-    height: 36px;
-    margin-top: 14px;
+  width: 154px;
+  height: 36px;
+  margin-top: 14px;
 }
 .tort {
-    width: 215px;
-    height: 55px;
-    font-size: 20px;
-    color: aliceblue;
-    background-color: #405FF2;
-    border-radius: 60px;
-
+  width: 215px;
+  height: 55px;
+  font-size: 20px;
+  color: aliceblue;
+  background-color: #405ff2;
+  border-radius: 60px;
 }
 .besh {
-    width: 200px;
-    height: 20px ;
-    color: white;
-    margin: auto;
-    margin-top: 10px;
+  width: 200px;
+  height: 20px;
+  color: white;
+  margin: auto;
+  margin-top: 10px;
 }
 .let3 {
-    width: 777px;
-    height: 60px;
-    margin: auto;
-    margin-top: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+  width: 777px;
+  height: 60px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
-.let3 .lut  {
-    width: 123px;
-    height: 44px;
-    color: white;
-    border-radius: 44px;
-    background-color: #FFFFFF2E;
-    
+.let3 .lut {
+  width: 123px;
+  height: 44px;
+  color: white;
+  border-radius: 44px;
+  background-color: #ffffff2e;
 }
 .lut1 {
-    width: 60px;
-    height: 25px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: auto;
-    margin-top: 9px;
+  width: 60px;
+  height: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 9px;
 }
-.let3 .lut3  {
-    width: 143px;
-    height: 44px;
-    color: white;
-    border-radius: 44px;
-    background-color: #FFFFFF2E;
-    
+.let3 .lut3 {
+  width: 143px;
+  height: 44px;
+  color: white;
+  border-radius: 44px;
+  background-color: #ffffff2e;
 }
 .lut4 {
-    width: 80px;
-    height: 35px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: auto;
-    margin-top: 3px;
+  width: 80px;
+  height: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 3px;
 }
 
-.let3 .lut5  {
-    width: 175px;
-    height: 44px;
-    color: white;
-    border-radius: 44px;
-    background-color: #FFFFFF2E;
-    
+.let3 .lut5 {
+  width: 175px;
+  height: 44px;
+  color: white;
+  border-radius: 44px;
+  background-color: #ffffff2e;
 }
 .lut6 {
-    width: 120px;
-    height: 35px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: auto;
-    margin-top: 3px;
+  width: 120px;
+  height: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 3px;
 }
 /* ================================================ */
 .text {
-    border: 1px solid yellow;
-    width: 1920px;
-    height: 2689px;
-    margin: auto;
-    background-color: #FFFFFF;
-    
-    
+  border: 1px solid yellow;
+  width: 1920px;
+  height: 2689px;
+  margin: auto;
+  background-color: #ffffff;
+  border-radius: 50px;
 }
-
-
+.text1 {
+  width: 1430px;
+  height: 50px;
+  margin: auto;
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text1 .tub h2 {
+  font-size: 40px;
+}
+.text2 {
+  width: 1430px;
+  height: 191px;
+  margin: auto;
+  margin-top: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+.tub2 {
+  width: 209px;
+  height: 181px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+.tub2 img {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.b1 {
+  margin-left: 80px;
+}
+.b2 {
+  margin-left: 55px;
+}
+.b3 {
+  margin-left: 40px;
+}
+.b4 {
+  margin-left: 69px;
+}
+.text3 {
+  width: 1430px;
+  height: 450px;
+  border: 1px solid black;
+  margin: auto;
+}
+.masin1 {
+  width: 328px;
+  height: 434px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.masin1 {
+  width: 328px;
+  height: 219px;
+  background-image: url(../img/image\ copy\ 7.png);
+}
+.masin {
+  width: 328px;
+  height: 434px;
+  border: 1px solid green;
+}
+.text3 .masin .masin1 .ret {
+  width:;
+  height:;
+  border: 1px solid black;
+}
