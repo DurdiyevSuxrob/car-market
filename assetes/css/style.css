@@ -249,9 +249,8 @@
   margin-left: 50px;
 }
 .text3 {
-  width: 1430px;
-  height: 550px;
-  border: 1px solid black;
+  width: 1410px;
+  height: 440px;
   margin: auto;
   margin-top: 30px;
   display: flex;
@@ -273,11 +272,12 @@
 .masin {
   width: 328px;
   height: 434px;
-  border: 1px solid green;
+   box-shadow: 0px 0px 3px 2px gray;
+   border-radius: 16px;
 }
 .text3 .masin .masin1 .ret {
   width: 300px;
-  height:50px;
+  height: 50px;
   display: flex;
   justify-content: space-between;
   margin: auto;
@@ -286,17 +286,17 @@
 .ret button {
   width: 105px;
   height: 30px;
-  background-color: #3D923A;
+  background-color: #3d923a;
   border-radius: 30px;
   color: antiquewhite;
-  border: 1px solid #3D923A;
+  border: 1px solid #3d923a;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
 }
-.bayroq   {
+.bayroq {
   width: 36px;
   height: 36px;
   border-radius: 16px;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: black;
 }
 .bayroq .fa-regular {
@@ -325,7 +325,6 @@
   justify-content: space-between;
   border-radius: 8px;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-
 }
 .ter {
   width: 75px;
@@ -339,8 +338,6 @@
   font-size: 13px;
   width: 74px;
   height: 14px;
-  
-  
 }
 .b3 {
   margin: auto;
@@ -362,5 +359,137 @@
 .chiziq b {
   font-size: 20px;
 }
+.masin10 {
+  width: 328px;
+  height: 434px;
+   box-shadow: 0px 0px 3px 2px gray;
+   border-radius: 16px;
+}
+.masin5 {
+  width: 328px;
+  height: 434px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.masin5 {
+  width: 328px;
+  height: 219px;
+  background-image: url(../img/image\ copy\ 9.png);
+  border-radius: 16px;
+}
+.ret5 {
+  width: 280px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+}
+.ret5 button {
+  width: 105px;
+  height: 30px;
+  background-color: #3d923a;
+  border-radius: 30px;
+  color: antiquewhite;
+  border: 1px solid #3d923a;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+.masin9 {
+  width: 328px;
+  height: 434px;
+   box-shadow: 0px 0px 3px 2px gray;
+   border-radius: 16px;
+}
+.masin4 {
+  width: 328px;
+  height: 434px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.masin4 {
+  width: 328px;
+  height: 219px;
+  background-image: url(../img/image\ copy\ 10.png);
+  border-radius: 16px;
+}
+.ret6 {
+  width: 280px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+}
+.ret6 button {
+  width: 105px;
+  height: 30px;
+  background-color: #3d923a;
+  border-radius: 30px;
+  color: antiquewhite;
+  border: 1px solid #3d923a;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
 
+.masinn {
+  width: 328px;
+  height: 434px;
+  box-shadow: 0px 0px 3px 2px gray;
+  border-radius: 16px;
+}
+.masini {
+  width: 328px;
+  height: 434px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.masini {
+  width: 328px;
+  height: 219px;
+  background-image: url(../img/image\ copy\ 8.png);
+  border-radius: 16px;
+}
+.rett {
+  width: 280px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+}
+.rett button {
+  width: 105px;
+  height: 30px;
+  background-color: #3d923a;
+  border-radius: 30px;
+  color: antiquewhite;
+  border: 1px solid #3d923a;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+.otirish {
+  width: 150px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 280px;
+  margin-top: 30px;
+}
+.rish {
+  width: 60px;
+  height: 40px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 2px 2px gray;
+}
+.rish1 {
+  width: 60px;
+  height: 40px;
+  box-shadow: 0px 0px 2px 2px gray;
+  border-radius: 30px;
+}
+.otirish button i {
+  font-size: 25px;
+}
 
