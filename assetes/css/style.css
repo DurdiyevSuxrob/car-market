@@ -193,12 +193,12 @@
 }
 /* ================================================ */
 .text {
-  border: 1px solid yellow;
   width: 1920px;
   height: 2689px;
   margin: auto;
   background-color: #ffffff;
   border-radius: 50px;
+  transform: translateY(-150px);
 }
 .text1 {
   width: 1430px;
@@ -236,14 +236,17 @@
 .b1 {
   margin-left: 80px;
 }
-.b2 {
-  margin-left: 55px;
+.b7 {
+  margin-left: 40px;
 }
 .b3 {
   margin-left: 40px;
 }
-.b4 {
-  margin-left: 69px;
+.b8 {
+  margin-left: 68px;
+}
+.b20 {
+  margin-left: 50px;
 }
 .text3 {
   width: 1430px;
