@@ -502,5 +502,7 @@
 .ml1 {
   width: 805px;
   height: 723px;
-  border: 1px solid black;
+  background-image: url(../img/{B3014597-0478-4512-807D-732A035FA7C0}.png);
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
 }
