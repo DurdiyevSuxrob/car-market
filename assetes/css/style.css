@@ -498,6 +498,7 @@
   border: 1px solid black;
   margin: auto;
   margin-top: 50px;
+  display: flex;
 }
 .ml1 {
   width: 805px;
@@ -505,4 +506,21 @@
   background-image: url(../img/{B3014597-0478-4512-807D-732A035FA7C0}.png);
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
+}
+.ml2 {
+  width: 895px;
+  height: 723px;
+  border: 1px solid black;
+  background-color: #EEF1FB;
+
+}
+.ml3 {
+  width: 548px;
+  height: 112px;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 125px;
+}
+.ml3 h2 {
+  font-size: 40px;
 }
