@@ -538,3 +538,15 @@
   margin: auto;
   margin-top: 20px;
 }
+.ml6 {
+  width: 547px;
+  height: 35px;
+  border: 1px solid black;
+  margin-top: 10px;
+}
+.ml6 i {
+  margin-top: 5px;
+  font-size: 25px;
+  
+  
+}
